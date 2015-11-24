@@ -1,0 +1,7 @@
+site_name: Brain On / Hands Off
+repo_url: https://github.com/loddar/brain-on
+pages:
+- Home: 'index.md'
+- About:
+    - 'License': 'about/license.md'
+theme: readthedocs
