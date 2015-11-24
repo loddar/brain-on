@@ -2,6 +2,13 @@ site_name: Brain On / Hands Off
 repo_url: https://github.com/loddar/brain-on
 pages:
 - Home: 'index.md'
+- Ideen:
+    - 'Sandras Ideen': 'ideas/sandra.md'
+    - 'Markos Ideen': 'ideas/marko.md'
+- Fragen:
+    - 'Konsolodiere Fragen': 'question.md'
+    - 'Sandras Fragen': 'question/sandra.md'
+    - 'Markos Fragen': 'question/marko.md'
 - About:
     - 'License': 'about/license.md'
 theme: readthedocs
